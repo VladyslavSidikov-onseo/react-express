@@ -1,0 +1,5 @@
+{
+    "serverPORT": 5000,
+    "dbUrl": "mongodb+srv://vladyslav:Password1!@cloud.yiho8.mongodb.net/cloud?retryWrites=true&w=majority",
+    "secretKey": "secret-password"
+}
